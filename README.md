@@ -1,4 +1,4 @@
-`EndeavorOS@behrooz:~$` ![typing](https://readme-typing-svg.demolab.com/?lines=whoami;Behrooz+Keshvary+—+self-taught+programmer;cat+about_me.txt;Started+coding+around+8th+grade;ls+skills/;python,+html_css,+javascript)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=EndeavorOS@behrooz:~$+whoami;EndeavorOS@behrooz:~$+cat+about_me.txt;EndeavorOS@behrooz:~$+ls+skills/;EndeavorOS@behrooz:~$+cat+interests.txt&font=Fira+Code&color=00FF00&background=000000&size=18)](https://git.io/typing-svg)
 
 # Hi, I'm Behrooz 👋
 
