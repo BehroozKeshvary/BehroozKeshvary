@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=EndeavorOS@behrooz:~$+whoami;Behrooz+Keshvary+—+self-taught+programmer;EndeavorOS@behrooz:~$+cat+about_me.txt)](https://git.io/typing-svg)
+
 # Hi, I'm Behrooz 👋
 
 I'm Behrooz Keshvary, a self-taught programmer from Shiraz, Iran.
